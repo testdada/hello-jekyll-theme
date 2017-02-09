@@ -57,7 +57,7 @@ Save. Enjoy. Happy Jekylling!
 
 ### Live Demo
 
-See a live demo @ [`henrythemes.github.io/hello-jekyll-theme` »](https://henrythemes.github.io/hello-jekyll-theme)
+See a live demo @ [`testdada.github.io/hello-jekyll-theme` »](https://testdada.github.io/hello-jekyll-theme)
 
 
 ### Bonus - Q: Can I Use Ready-Made Styles / Designs / Themes? A: Hello, Minima! Theme - Get Started in 60 Seconds, Reloaded
